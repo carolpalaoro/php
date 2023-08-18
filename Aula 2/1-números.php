@@ -83,6 +83,7 @@
     <p>Para saber se um número ou variável é flutuante usamos a função is_float()</p>
 
     <!-- Código PHP para verificação de float -->
+    
     <?php
 
         $a = "teste";
